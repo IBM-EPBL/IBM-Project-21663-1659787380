@@ -2,15 +2,15 @@
 
 ***Emerging Methods for Early Detection of Forest Fires***
 
-**Technology:** Artificial Intelligence
+**Technology :** Artificial Intelligence
 
-**Team ID:** PNT2022TMID04128
+**Team ID :** PNT2022TMID04128
 
-**Batch:** B7 - 1A3E
+**Batch :** B7 - 1A3E
 
-**Team Leader:** Tejaswini K.G
+**Team Leader :** Tejaswini K.G
 
-**Team Members:**
+**Team Members :**
 
 1. Suchitra.V
 
