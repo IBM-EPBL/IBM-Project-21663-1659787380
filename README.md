@@ -1,5 +1,18 @@
 
 **Emerging Methods for Early Detection of Forest Fires**
 
-    A Deep learning based approach for real-time forest fire detection and prediction.
+**Technology:** Artificial Intelligence
 
+**Team ID:** PNT2022TMID04128
+
+**Batch:** B7 - 1A3E
+
+**Team Leader:** Tejaswini K.G
+
+**Team Members:**
+
+1. Suchitra.V
+
+2. Vallimayila.R
+
+3. Swetha.S
