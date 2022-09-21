@@ -6,8 +6,6 @@
 
 **Team ID :** PNT2022TMID04128
 
-**Batch :** B7 - 1A3E
-
 **Team Leader :** Tejaswini K.G
 
 **Team Members :**
